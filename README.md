@@ -1,11 +1,15 @@
 # Kalman-Filtered-Blob-Tracker
 A project that uses kalman filter to estimate a blob position
+
+
 To compile:
-delete the folder build
--remake the folder
--build
--cmake..
--make.
+1. delete the folder "build"
+2. mkdir build
+3. cmake ..
+4. make
+
+
+to use type ./ball_tracker
 
 Current progress: Added Kalman filter to blobs and demonstrated usage of Object oriented programming. 
 
