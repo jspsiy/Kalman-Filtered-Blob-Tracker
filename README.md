@@ -4,7 +4,7 @@ A project that uses kalman filter to estimate a blob position
 
 To compile:
 1. delete the folder "build"
-2. mkdir build
+2. mkdir build and cd build
 3. cmake ..
 4. make
 
